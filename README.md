@@ -279,8 +279,6 @@ Before deploying it publicly, additional security improvements should be impleme
 * Production CORS configuration
 * Database Row Level Security (RLS)
 
-**Never upload API keys, passwords, Supabase secrets, or other credentials to the repository.**
-
 ## 🎯 Project Objective
 
 The goal of NextGen HR is to make interview preparation more accessible by providing an interactive environment where candidates can practice interviews and receive structured, AI-assisted feedback instead of relying only on manual evaluation.
@@ -301,11 +299,3 @@ Developed as an academic/final-year project.
 * More detailed performance analytics
 * Role-specific evaluation models
 * Secure production authentication
-
-## 📄 License
-
-Add the license that matches how you intend to distribute the project. If you are publishing the repository as an open-source project, consider adding an appropriate OSI-approved license.
-
----
-
-⭐ If you find this project useful, consider giving the repository a star!
