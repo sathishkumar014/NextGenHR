@@ -1,0 +1,87 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# =========================
+# Node.js
+# =========================
+node_modules/
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# ML Models (optional if large)
+# =========================
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# ML Models
+ml_models/
+*.pt
+*.h5
+*.pth
+
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+.env.*
+backend/.env
+
+# Node
+node_modules/
+dist/
+build/
+
+# ML Models
+ml_models/
+*.pt
+*.h5
+*.pth
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
